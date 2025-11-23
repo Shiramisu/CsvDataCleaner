@@ -1,0 +1,301 @@
+Id;Name;Alter;Punkte;Geburtsdatum;Email;Stadt;Aktiv
+1;Ben;51;32; 2001-05-12 ;ben@@mail..com;Hamburg;  ja  
+2;Max;??;55;;max2@mail.com;Dortmund;ja
+3;Max;16;;;   max@mail.com  ;Stuttgart;nein
+4;Lena;;ABC;1987-01-14;lena@@mail..com;Leipzig;ja
+5;Lena;??;; 2001-05-12 ;   max@mail.com  ;  Berlin  ;ja
+6;Mia;??;;32.13.2020;mia6@mail.com;Stuttgart;ja
+7;Ben;??;ABC;32.13.2020;   max@mail.com  ;Köln;nein
+8;Noah;29;; 2001-05-12 ;;  Berlin  ;
+9;Mia;32;; 2001-05-12 ;mia9@mail.com;Stuttgart;
+10;Ella;;ABC;32.13.2020;ella10@mail.com;;
+11;Mia;53;;2020-10-06;;Berlin;ja
+12;Julia;70;57;1985-04-09;julia@@mail..com;Dortmund;
+13;Julia;;;32.13.2020;   max@mail.com  ;Dortmund;  ja  
+14;Mia;22;ABC;;;Hamburg;
+15;Noah;??;;1952-07-05;noah@@mail..com;Stuttgart;  ja  
+16;Noah;;ABC;1978-09-21;   max@mail.com  ;  Berlin  ;
+17;Lucas;  23  ;;1956-05-03;;Leipzig;nein
+18;Lucas;  23  ;16;;   max@mail.com  ;Köln;ja
+19;Lucas;  23  ;; 2001-05-12 ;lucas19@mail.com;Essen;
+20;Noah;46;ABC;;;  Berlin  ;nein
+21;Lena;;34; 2001-05-12 ;lena@@mail..com;Hamburg;ja
+22;Julia;;;32.13.2020;;Dortmund;
+23;Julia;;ABC;1967-10-18;;Berlin;  ja  
+24;Julia;; -5 ; 2001-05-12 ;julia24@mail.com;  Berlin  ;nein
+25;Ella;  23  ; -5 ;32.13.2020;ella25@mail.com;Berlin;
+26;Max;54;ABC;;   max@mail.com  ;Köln;ja
+27;Mia;;20;32.13.2020;;Stuttgart;
+28;Julia;  23  ;5;32.13.2020;   max@mail.com  ;Essen;
+29;Lucas;19;ABC; 2001-05-12 ;;Leipzig;nein
+30;Noah;  23  ;;32.13.2020;noah30@mail.com;Stuttgart;ja
+31;Ella;  23  ;ABC;;;  Berlin  ;
+32;Tom;36;69;;   max@mail.com  ;Hamburg;
+33;Noah;70;93;32.13.2020;;Stuttgart;  ja  
+34;Ben;  23  ;;32.13.2020;;Hamburg;
+35;Ben;;69;;ben@@mail..com;Leipzig;  ja  
+36;Noah;25;; 2001-05-12 ;   max@mail.com  ;;
+37;Noah;??;ABC; 2001-05-12 ;noah37@mail.com;Essen;ja
+38;Max;  23  ;;32.13.2020;   max@mail.com  ;  Berlin  ;  ja  
+39;Ben;54;ABC;32.13.2020;   max@mail.com  ;München;nein
+40;Lena;??;ABC;32.13.2020;lena@@mail..com;Berlin;ja
+41;Noah;  23  ;;32.13.2020;;Köln;  ja  
+42;Ella;20;ABC; 2001-05-12 ;ella@@mail..com;  Berlin  ;ja
+43;Mia;??; -5 ;;mia43@mail.com;;ja
+44;Sarah;55;34;1967-10-27;   max@mail.com  ;München;  ja  
+45;Lucas;;ABC;;lucas45@mail.com;Essen;  ja  
+46;Julia;  23  ;;1998-12-18;julia@@mail..com;;  ja  
+47;Ella;16;;32.13.2020;ella@@mail..com;;nein
+48;Sarah;  23  ;ABC; 2001-05-12 ;   max@mail.com  ;Hamburg;nein
+49;Ella;;36;1953-02-19;;Köln;ja
+50;Noah;  23  ; -5 ;2017-06-01;   max@mail.com  ;Stuttgart;
+51;Sarah;??;ABC; 2001-05-12 ;sarah@@mail..com;;ja
+52;Sarah;;ABC; 2001-05-12 ;sarah@@mail..com;Dortmund;ja
+53;Lucas;??; -5 ;;;Berlin;  ja  
+54;Ben;??; -5 ;1972-02-27;;Leipzig;  ja  
+55;Noah;; -5 ;2012-03-15;;;ja
+56;Ella;42;45;;ella56@mail.com;Essen;
+57;Ella;;;1980-06-09;ella57@mail.com;;
+58;Mia;47; -5 ;;   max@mail.com  ;;  ja  
+59;Ben;  23  ; -5 ;;ben59@mail.com;  Berlin  ;  ja  
+60;Lena;; -5 ;;   max@mail.com  ;  Berlin  ;nein
+61;Ella;??;; 2001-05-12 ;;Leipzig;  ja  
+62;Tom;; -5 ; 2001-05-12 ;;Stuttgart;ja
+63;Ben;17;76; 2001-05-12 ;   max@mail.com  ;Dortmund;
+64;Julia;;; 2001-05-12 ;   max@mail.com  ;Köln;nein
+65;Tom;  23  ;ABC;32.13.2020;;Stuttgart;ja
+66;Tom;20;1;32.13.2020;tom@@mail..com;Essen;nein
+67;Ben;65;ABC;1968-11-18;   max@mail.com  ;Leipzig;nein
+68;Julia;  23  ;1;;julia68@mail.com;Leipzig;ja
+69;Lucas;;ABC;;   max@mail.com  ;Essen;
+70;Sarah;;31;1972-06-14;;;  ja  
+71;Noah;??;84;1984-12-20;;Köln;ja
+72;Ben;;54; 2001-05-12 ;;Hamburg;
+73;Max;23;;2000-12-15;;Hamburg;
+74;Lena;  23  ;ABC;32.13.2020;lena@@mail..com;Leipzig;  ja  
+75;Julia;  23  ;ABC;;;Dortmund;  ja  
+76;Ella;45;ABC;2017-09-24;;Köln;nein
+77;Lena;  23  ;ABC;1994-03-19;lena77@mail.com;Leipzig;
+78;Lucas;  23  ; -5 ;1991-12-24;lucas78@mail.com;Köln;
+79;Lena;  23  ;73; 2001-05-12 ;;Essen;ja
+80;Ella;66;17;32.13.2020;ella@@mail..com;  Berlin  ;
+81;Lena;  23  ; -5 ;;lena81@mail.com;Köln;
+82;Tom;;;2002-12-20;tom82@mail.com;;
+83;Julia;  23  ;8;;   max@mail.com  ;Berlin;
+84;Mia;  23  ;; 2001-05-12 ;;;nein
+85;Mia;61;ABC; 2001-05-12 ;   max@mail.com  ;Hamburg;  ja  
+86;Ella;??; -5 ;32.13.2020;ella86@mail.com;;ja
+87;Sarah;  23  ; -5 ; 2001-05-12 ;;Stuttgart;
+88;Ben;??;;2020-03-09;   max@mail.com  ;  Berlin  ;ja
+89;Lena;??;36;1961-02-28;   max@mail.com  ;Leipzig;  ja  
+90;Sarah;  23  ;ABC;1993-07-15;   max@mail.com  ;Dortmund;nein
+91;Lucas;24; -5 ;32.13.2020;   max@mail.com  ;Leipzig;
+92;Lucas;  23  ; -5 ; 2001-05-12 ;   max@mail.com  ;Essen;ja
+93;Julia;;;;   max@mail.com  ;Hamburg;  ja  
+94;Ben;68;ABC; 2001-05-12 ;;Berlin;ja
+95;Noah;??;85;;   max@mail.com  ;Berlin;nein
+96;Julia;??;ABC; 2001-05-12 ;   max@mail.com  ;Hamburg;  ja  
+97;Julia;??;; 2001-05-12 ;;Stuttgart;nein
+98;Ella;??;13;1994-12-09;   max@mail.com  ;Leipzig;ja
+99;Tom;  23  ;;32.13.2020;tom@@mail..com;Essen;ja
+100;Noah;; -5 ;32.13.2020;;Stuttgart;nein
+101;Mia;??; -5 ;;   max@mail.com  ;;nein
+102;Max;  23  ;; 2001-05-12 ;   max@mail.com  ;Dortmund;ja
+103;Ben;  23  ;28;;ben103@mail.com;München;nein
+104;Noah;  23  ; -5 ;32.13.2020;noah@@mail..com;Hamburg;nein
+105;Sarah;  23  ;ABC;32.13.2020;sarah@@mail..com;Hamburg;
+106;Ben;58;44;32.13.2020;;München;
+107;Noah;  23  ;3;;noah107@mail.com;Dortmund;
+108;Max;  23  ; -5 ;32.13.2020;   max@mail.com  ;Hamburg;  ja  
+109;Ella;??;;1988-09-05;ella109@mail.com;Köln;nein
+110;Tom;  23  ;69;32.13.2020;   max@mail.com  ;Köln;  ja  
+111;Julia;  23  ; -5 ;2019-09-28;;Stuttgart;nein
+112;Ben;;;32.13.2020;ben@@mail..com;Köln;  ja  
+113;Mia;40;;1984-05-22;mia113@mail.com;Köln;  ja  
+114;Noah;??;ABC; 2001-05-12 ;   max@mail.com  ;  Berlin  ;  ja  
+115;Max;??;99;1950-01-27;max@@mail..com;;
+116;Noah;  23  ;;32.13.2020;noah@@mail..com;Hamburg;ja
+117;Lena;  23  ;32;32.13.2020;;Dortmund;  ja  
+118;Tom;; -5 ; 2001-05-12 ;;Hamburg;ja
+119;Mia;??;;2000-12-08;mia@@mail..com;Dortmund;
+120;Tom;??;ABC;;   max@mail.com  ;Stuttgart;  ja  
+121;Noah;??;; 2001-05-12 ;noah121@mail.com;Berlin;ja
+122;Ben;??; -5 ;1969-03-17;;Berlin;  ja  
+123;Lucas;;ABC;;   max@mail.com  ;Köln;nein
+124;Lena;;;1972-07-19;lena@@mail..com;Essen;nein
+125;Max;;89; 2001-05-12 ;max125@mail.com;  Berlin  ;ja
+126;Lucas;20;ABC;1955-09-08;lucas126@mail.com;Leipzig;  ja  
+127;Sarah;??;; 2001-05-12 ;   max@mail.com  ;;nein
+128;Lucas;??;ABC;32.13.2020;;Köln;ja
+129;Lena;; -5 ;32.13.2020;   max@mail.com  ;Berlin;nein
+130;Ben;;25; 2001-05-12 ;ben@@mail..com;  Berlin  ;nein
+131;Noah;??;;;noah131@mail.com;Berlin;  ja  
+132;Lucas;;;;   max@mail.com  ;Köln;
+133;Tom;??;;;;Stuttgart;
+134;Julia;  23  ;ABC;1952-05-26;;Stuttgart;
+135;Ella;18; -5 ;1970-03-21;ella135@mail.com;Essen;nein
+136;Tom;??;;;;Berlin;ja
+137;Tom;??;ABC;32.13.2020;tom137@mail.com;Köln;nein
+138;Lucas;??; -5 ;;lucas@@mail..com;;ja
+139;Mia;63;;32.13.2020;mia@@mail..com;Hamburg;ja
+140;Max;??;;;   max@mail.com  ;;
+141;Tom;  23  ;84;1993-01-15;tom@@mail..com;Köln;
+142;Mia;17;ABC;32.13.2020;   max@mail.com  ;Leipzig;
+143;Mia;??;ABC;32.13.2020;mia@@mail..com;  Berlin  ;
+144;Julia;  23  ;ABC;2016-01-19;julia144@mail.com;  Berlin  ;ja
+145;Julia;  23  ;47; 2001-05-12 ;julia145@mail.com;;  ja  
+146;Lena;47; -5 ;;lena146@mail.com;Essen;
+147;Noah;  23  ; -5 ;1997-01-23;noah@@mail..com;Leipzig;  ja  
+148;Noah;33;;;;;
+149;Tom;28;ABC;32.13.2020;tom@@mail..com;;ja
+150;Noah;  23  ;;32.13.2020;noah150@mail.com;Berlin;
+151;Lucas;;71;;lucas@@mail..com;Hamburg;nein
+152;Ella;47; -5 ;2008-04-26;;Stuttgart;
+153;Ella;  23  ;28;;;;ja
+154;Max;29;;;   max@mail.com  ;Leipzig;nein
+155;Mia;  23  ;ABC;;mia@@mail..com;  Berlin  ;
+156;Ella;??;46; 2001-05-12 ;;Dortmund;ja
+157;Lucas;??;ABC;;;;
+158;Ella;??; -5 ;1982-05-01;   max@mail.com  ;Stuttgart;
+159;Tom;??;ABC;;   max@mail.com  ;Essen;ja
+160;Julia;37;32;32.13.2020;;Leipzig;ja
+161;Tom;60;42;32.13.2020;   max@mail.com  ;  Berlin  ;
+162;Tom;; -5 ; 2001-05-12 ;   max@mail.com  ;Hamburg;nein
+163;Lucas;29;; 2001-05-12 ;   max@mail.com  ;München;nein
+164;Sarah;  23  ; -5 ;;sarah164@mail.com;Dortmund;  ja  
+165;Noah;??;40;32.13.2020;   max@mail.com  ;Berlin;
+166;Julia;??;;;julia166@mail.com;Hamburg;nein
+167;Ben;33;; 2001-05-12 ;ben167@mail.com;Hamburg;ja
+168;Max;  23  ;42; 2001-05-12 ;max@@mail..com;Leipzig;
+169;Ella;  23  ;;;   max@mail.com  ;Berlin;
+170;Lena;41;;;lena@@mail..com;München;nein
+171;Sarah;66; -5 ; 2001-05-12 ;sarah@@mail..com;München;ja
+172;Sarah;37;75;;sarah@@mail..com;Hamburg;ja
+173;Tom;18;; 2001-05-12 ;tom@@mail..com;Berlin;
+174;Tom;  23  ;ABC;1998-11-13;   max@mail.com  ;München;  ja  
+175;Lena;26;30;32.13.2020;;Dortmund;  ja  
+176;Mia;  23  ;ABC;32.13.2020;mia@@mail..com;Leipzig;nein
+177;Sarah;;;;sarah@@mail..com;Köln;ja
+178;Ella;; -5 ; 2001-05-12 ;;Hamburg;  ja  
+179;Ben;  23  ;57;1969-11-11;ben@@mail..com;Stuttgart;ja
+180;Max;; -5 ;32.13.2020;;Dortmund;ja
+181;Ben;39;;32.13.2020;;  Berlin  ;  ja  
+182;Tom;38; -5 ;;tom@@mail..com;Dortmund;
+183;Ben;; -5 ; 2001-05-12 ;   max@mail.com  ;  Berlin  ;  ja  
+184;Ben;  23  ;ABC;;ben@@mail..com;Köln;nein
+185;Max;??;;;max@@mail..com;Hamburg;  ja  
+186;Tom;  23  ;21;1977-06-16;tom186@mail.com;Dortmund;  ja  
+187;Noah;;62;32.13.2020;;  Berlin  ;ja
+188;Mia;??; -5 ;32.13.2020;mia188@mail.com;Köln;
+189;Tom;  23  ; -5 ;32.13.2020;tom@@mail..com;Leipzig;ja
+190;Julia;??;; 2001-05-12 ;;  Berlin  ;
+191;Ben;;45;;   max@mail.com  ;Stuttgart;nein
+192;Mia;;;1960-12-03;   max@mail.com  ;  Berlin  ;  ja  
+193;Lena;;ABC; 2001-05-12 ;lena@@mail..com;  Berlin  ;
+194;Max;  23  ;ABC;32.13.2020;max194@mail.com;Stuttgart;
+195;Tom;;56;;   max@mail.com  ;Stuttgart;ja
+196;Ella;29;; 2001-05-12 ;ella196@mail.com;Dortmund;
+197;Ben;  23  ;; 2001-05-12 ;   max@mail.com  ;Stuttgart;
+198;Ben;  23  ;;1986-11-05;;Hamburg;  ja  
+199;Lucas;;ABC;32.13.2020;lucas@@mail..com;Berlin;ja
+200;Julia;??;ABC; 2001-05-12 ;julia200@mail.com;  Berlin  ;nein
+201;Ella;??; -5 ;32.13.2020;ella@@mail..com;Berlin;ja
+202;Julia;; -5 ;2006-06-24;   max@mail.com  ;Berlin;  ja  
+203;Sarah;??;42; 2001-05-12 ;   max@mail.com  ;;nein
+204;Lena;  23  ;;;lena204@mail.com;Hamburg;  ja  
+205;Max;; -5 ; 2001-05-12 ;   max@mail.com  ;Stuttgart;
+206;Sarah;??; -5 ;;   max@mail.com  ;Köln;  ja  
+207;Julia;49; -5 ;32.13.2020;;;  ja  
+208;Lena;??;;;lena@@mail..com;Berlin;
+209;Ella;63;ABC;32.13.2020;   max@mail.com  ;München;
+210;Tom;??;ABC;32.13.2020;tom@@mail..com;München;ja
+211;Ella;??; -5 ;32.13.2020;ella211@mail.com;Essen;nein
+212;Julia;; -5 ;32.13.2020;;München;nein
+213;Ben;;18;;   max@mail.com  ;Köln;
+214;Ella;  23  ;;;ella@@mail..com;München;  ja  
+215;Ella;46;83;;ella@@mail..com;Dortmund;nein
+216;Sarah;  23  ;ABC; 2001-05-12 ;sarah@@mail..com;München;nein
+217;Max;  23  ; -5 ;2016-04-03;max217@mail.com;Essen;
+218;Julia;??; -5 ;32.13.2020;   max@mail.com  ;Essen;  ja  
+219;Lena;;25;1968-04-08;lena@@mail..com;Essen;  ja  
+220;Ella;43;; 2001-05-12 ;;Essen;nein
+221;Tom;  23  ; -5 ;;;  Berlin  ;ja
+222;Lena;;81;2005-03-26;;Köln;nein
+223;Sarah;??;81; 2001-05-12 ;sarah223@mail.com;Stuttgart;ja
+224;Ben;??;ABC; 2001-05-12 ;;Stuttgart;ja
+225;Julia;  23  ;13;1995-02-07;julia225@mail.com;Berlin;  ja  
+226;Tom;  23  ;62; 2001-05-12 ;tom226@mail.com;  Berlin  ;ja
+227;Sarah;??;; 2001-05-12 ;   max@mail.com  ;;ja
+228;Sarah;;ABC;;;;  ja  
+229;Lucas;??;;;   max@mail.com  ;Hamburg;
+230;Sarah;  23  ; -5 ;;   max@mail.com  ;Berlin;  ja  
+231;Mia;  23  ; -5 ;;;  Berlin  ;ja
+232;Mia;33; -5 ; 2001-05-12 ;mia232@mail.com;Hamburg;
+233;Ella;??;ABC;2017-06-19;ella@@mail..com;Köln;ja
+234;Ella;22; -5 ;;ella@@mail..com;München;ja
+235;Noah;??;;;noah235@mail.com;  Berlin  ;
+236;Max;??; -5 ;2010-07-14;max@@mail..com;München;ja
+237;Lucas;??; -5 ;;lucas@@mail..com;Berlin;
+238;Julia;??;; 2001-05-12 ;julia238@mail.com;Stuttgart;ja
+239;Mia;  23  ; -5 ; 2001-05-12 ;mia239@mail.com;Essen;  ja  
+240;Noah;70;;32.13.2020;   max@mail.com  ;München;
+241;Julia;;62; 2001-05-12 ;   max@mail.com  ;;  ja  
+242;Max;??;ABC; 2001-05-12 ;   max@mail.com  ;Hamburg;nein
+243;Ella;??;ABC;1983-09-27;;Köln;
+244;Max;50; -5 ;2008-05-25;;Köln;ja
+245;Lucas;??;ABC; 2001-05-12 ;lucas@@mail..com;;ja
+246;Lucas;66;52; 2001-05-12 ;lucas246@mail.com;Leipzig;ja
+247;Lena;64;8;32.13.2020;;Hamburg;  ja  
+248;Ella;  23  ;;32.13.2020;ella@@mail..com;München;nein
+249;Sarah;  23  ; -5 ;32.13.2020;sarah@@mail..com;Köln;nein
+250;Ben;  23  ;;1967-03-27;;Essen;nein
+251;Ben;??;ABC;;;;  ja  
+252;Lena;20;; 2001-05-12 ;lena252@mail.com;  Berlin  ;nein
+253;Mia;42;24;32.13.2020;;Leipzig;
+254;Sarah;33;3;2006-01-07;;Stuttgart;
+255;Julia;30;24;1974-11-05;   max@mail.com  ;Berlin;nein
+256;Mia;26;;;;  Berlin  ;ja
+257;Noah;  23  ;ABC;32.13.2020;;;  ja  
+258;Lucas;??;35; 2001-05-12 ;lucas@@mail..com;  Berlin  ;nein
+259;Noah;16;;1978-06-13;   max@mail.com  ;  Berlin  ;  ja  
+260;Noah;65;88; 2001-05-12 ;;  Berlin  ;ja
+261;Tom;  23  ;ABC;32.13.2020;tom@@mail..com;;nein
+262;Tom;;; 2001-05-12 ;;Berlin;nein
+263;Julia;68;ABC;;   max@mail.com  ;Hamburg;  ja  
+264;Tom;;ABC;32.13.2020;   max@mail.com  ;  Berlin  ;nein
+265;Mia;??;ABC;1979-07-20;mia@@mail..com;  Berlin  ;
+266;Julia;??;ABC;;   max@mail.com  ;Dortmund;ja
+267;Lena;58; -5 ; 2001-05-12 ;;Stuttgart;nein
+268;Mia;??; -5 ;1965-05-09;mia268@mail.com;Dortmund;nein
+269;Tom;33;ABC; 2001-05-12 ;   max@mail.com  ;Hamburg;  ja  
+270;Ella;20;7;32.13.2020;ella@@mail..com;;  ja  
+271;Ella;  23  ;ABC;;;Berlin;ja
+272;Mia;;; 2001-05-12 ;mia272@mail.com;Köln;
+273;Max;;ABC; 2001-05-12 ;max@@mail..com;Berlin;  ja  
+274;Lucas;??;ABC;1993-10-01;   max@mail.com  ;Essen;nein
+275;Lucas;;ABC; 2001-05-12 ;   max@mail.com  ;;  ja  
+276;Sarah;  23  ;;1983-01-28;;Essen;nein
+277;Sarah;  23  ;62;;sarah@@mail..com;Hamburg;  ja  
+278;Max;26;ABC; 2001-05-12 ;max278@mail.com;Berlin;
+279;Max;??;;1995-10-15;;Dortmund;  ja  
+280;Lucas;33;ABC; 2001-05-12 ;;Köln;nein
+281;Max;  23  ;48;;max281@mail.com;;nein
+282;Mia;;;;   max@mail.com  ;Essen;  ja  
+283;Lena;60;68;;lena@@mail..com;Essen;  ja  
+284;Noah;  23  ; -5 ;2011-06-03;noah@@mail..com;;  ja  
+285;Ben;20;8; 2001-05-12 ;   max@mail.com  ;;
+286;Sarah;??;ABC;32.13.2020;sarah@@mail..com;  Berlin  ;ja
+287;Lucas;55; -5 ; 2001-05-12 ;;  Berlin  ;ja
+288;Noah;??;88;2007-11-23;   max@mail.com  ;Essen;ja
+289;Ella;16;ABC;1994-03-13;ella@@mail..com;Leipzig;  ja  
+290;Ben;??; -5 ;1982-12-22;   max@mail.com  ;;  ja  
+291;Ben;;ABC;1966-09-21;   max@mail.com  ;Leipzig;  ja  
+292;Mia;61; -5 ; 2001-05-12 ;;Hamburg;
+293;Max;22;;;max293@mail.com;München;ja
+294;Julia;67;93; 2001-05-12 ;julia@@mail..com;Dortmund;ja
+295;Max;??;; 2001-05-12 ;max@@mail..com;Dortmund;  ja  
+296;Noah;;41;32.13.2020;noah296@mail.com;Stuttgart;ja
+297;Max;70; -5 ;32.13.2020;   max@mail.com  ;Essen;ja
+298;Tom;;65;1996-12-15;   max@mail.com  ;Köln;
+299;Julia;  23  ;;;julia299@mail.com;München;  ja  
+300;Lena;; -5 ;2004-10-15;;Berlin;
